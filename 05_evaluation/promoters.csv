@@ -1,0 +1,106 @@
+True,S10,agtatgtataatgcgcgggcttgtcgt
+True,AMPC,tgtcgttacaatctaacgcatcgccaa
+True,AROH,ttttgttatcatgctaaccacccggcg
+True,DEOP2,agtagatgttagaatactaacaaactc
+True,LEU1_TRNA,aaccactagaatgcgcctccgtggtag
+True,MALEFG,tataaagaaactagagtccgtttaggt
+True,MALK,atgacgcatagtcagcccatcatgaat
+True,RECA,atacagtataattgcttcaacagaaca
+True,RPOB,tctgtgtaaatcgcaatgaaatggttt
+True,RRNAB_P1,actccctataatgcgccaccactgaca
+True,RRNAB_P2,aaggcgtattatgcacaccccgcgccg
+True,RRNDEX_P2,aaagcgtaatatacgccacctcgcgac
+True,RRND_P1,gatccctataatgcgcctccgttgaga
+True,RRNE_P1,actccctataatgcgcctccatcgaca
+True,RRNG_P1,actccctataatgcgccaccactgaca
+True,RRNG_P2,aaggcgtattatgcacaccgccgcgcc
+True,RRNX_P1,actccctataatgcgcctccatcgaca
+True,TNAA,gtgtaataatgtagcctcgtgtcttgc
+True,TYRT,atttgatatgatgcgccccgcttcccg
+True,ARAC,gattatagacacttttgttacgcgttt
+True,LACI,ggtatggcatgatagcgcccggaagag
+True,MALT,tctggccgaccttataaccattaatta
+True,TRP,gaactagttaactagtacgcaagttca
+True,TRPP2,tttgttacaaggtaaaggcgacgccgc
+True,THR,aatactttaaccaatataggcatagcg
+True,BIOB,aaagatttaggtttacaagtctacacc
+True,FOL,ctttacgtatagtggcgacaatttttt
+True,UVRBP1,cgacgagtaaaattacatacctgcccg
+True,UVRBP3,tgtgtattagagttagaaaacacgagg
+True,LEXA,tgctgtatatactcacagcataactgt
+True,PORI-L,ccctcattctgatcccagcttatacgg
+True,SPOT42,aaaagagtaaagttagtcgcgtagggt
+True,M1RNA,aaccctctatactgcgcgccgaagctg
+True,GLNS,cttataagatcatacgccgttatacgt
+True,TUFB,gtctccatagaatgcgcgctacttgat
+True,SUBB-E,ctatacgcataatgcgccccgcaacgc
+True,STR,atcgccctaaaattcggcgtcctcata
+True,SPC,gcggtgttataatgccgcgccctcgat
+True,RPOA,agctggctagattagccagccaatctt
+True,RPLJ,ttttgtctacaatcttacccccacgta
+True,PORI-R,aattaacccacgatcccagccattctt
+True,ALAS,agaaaacttatcttattcccacttttc
+True,ARABAD,caactctctactgtttctccatacccg
+True,BIOA,attcggtgtagacttgtaaacctaaat
+True,DEOP1,tcttgtgttagaattctaacatacggt
+True,GALP2,atctttgttatgctatggttatttcat
+True,HIS,aagtggtttaggttaaaagacatcagt
+True,HISJ,attaatggcacgatagtcgcatcggat
+True,ILVGEDA,acctatggtaactctttaggcattcct
+True,LACP1,ccggctcgtatgttgtgtggaattgtg
+True,LPP,ctttgtgtaatacttgtaacgctacat
+True,TRPR,tgatatgctatcgtactctttagcgag
+True,UVRB_P2,ttatccagtataatttgttggcataat
+False, 867,cagctgtgaacgacattctggcgtcta
+False,1169,ggtattactgtgaacattattcgtctc
+False, 802,ttttgctgaaaggaggaactatatgcg
+False, 521,taagctaaccattccggttgactcaat
+False, 918,tggaaggtgacgctaacgcagatgcag
+False,1481,tcagccaacagcctgacatccttcgtt
+False,1024,aacgctactacctgatgtttactccaa
+False,1149,aatcagaccgctttgactctggtatta
+False, 313,tacgcaccagcgccagaggacgacgac
+False, 780,tctaaacgggtcttgaggggttttttg
+False,1384,tgcgttcacttctggtctactgactcg
+False, 507,gcattttggcggtgtaagctaaccatt
+False,  39,gccttgtccttgcggtacacagcagcg
+False,1203,acgatgagatgcctgagtgcttccgtt
+False, 988,atctcgtggatggacgttcaacattga
+False,1171,tattactgtgaacattattcgtctccg
+False, 753,ccgaagcgagcctcgtcctcaatggcc
+False, 630,ttagagagcatgtcagcctcgacaact
+False, 660,ataaatgctttcttgtagacgtgccct
+False,1216,tgagtgcttccgttactggattgtcac
+False, 835,cgatatgaacgttgagactgccgctga
+False,  35,gcgagccttgtccttgcggtacacagc
+False,1218,agtgcttccgttactggattgtcacca
+False, 668,tttcttgtagacgtgccctacgcgctt
+False, 413,agagatgccagccagcgcacctgcacg
+False, 991,tcgtggatggacgttcaacattgagga
+False, 751,gaccgaagcgagcctcgtcctcaatgg
+False, 850,gactgccgctgagttatcagctgtgaa
+False,  93,tcaggattcatgtcgatgtcttccggt
+False,1108,ctacgttaaccgaggtggctatgtgta
+False, 915,cgctggaaggtgacgctaacgcagatg
+False,1019,ggcataacgctactacctgatgtttac
+False,  19,tgatacggcgagacttgcgagccttgt
+False,1320,aggctagacgtctctgcatggagtatg
+False,  91,cctcaggattcatgtcgatgtcttccg
+False, 217,tgattttccatgcggtgttttgcgcaa
+False, 957,gtattctcaacaagattaaccgacaga
+False, 260,cacctcaggcatgtaaacgtcttcgta
+False, 557,gatgcagcgtactcctacatgaataga
+False,1355,tacggtgggtacaatatgctggatgga
+False, 244,tgttaatcgctttgtacacctcaggca
+False, 464,aggtgcgagttcgatagtctcagagtc
+False, 296,tgctttcttactgtgagtacgcaccag
+False, 648,tcgacaacttgcataaatgctttcttg
+False, 230,ggtgttttgcgcaatgttaatcgcttt
+False,1163,gactctggtattactgtgaacattatt
+False,1321,ggctagacgtctctgcatggagtatga
+False, 663,aatgctttcttgtagacgtgccctacg
+False, 799,gttttttgctgaaaggaggaactatat
+False, 987,aatctcgtggatggacgttcaacattg
+False,1226,cgttactggattgtcaccaaggcttcc
+False, 794,gaggggttttttgctgaaaggaggaac
+False,1442,cactcattagccaatcaatcaagaact
