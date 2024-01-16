@@ -1,2 +1,22 @@
-# mlmust
-Course materials for machine learning training course @ MUST
+# Machine learning training course
+
+## Introduction 
+
+This course is designed for researchers who have at least basic skills in programming in Python. The course is aimed at researchers who want to improve their general skills in data manipulation, analysis and machine learning in Python.
+
+The course was developed for the machine learning course at Mbarara University of Science and Technology and is based on the course Machine Learning for the Life Sciences, taught at the Faculty of Bioengineering at Ghent University. 
+
+## Getting started
+
+The course uses Python 3 and some data analysis packages such as Pandas, NumPy and Matplotlib. 
+
+To immediately get started with the course, simply click on the links below in order to initiate your session on Google Colab. Google Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources. ** To get started with Google Colab, we recommend the following [tutorial](https://colab.research.google.com). **
+
+In case you want to install everything and try out the course material on your local computer, see the addendum in the practical [Introduction to Python](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/01_python_intro/Lab1_Python_intro.ipynb).
+
+## Course materials
+
+1. [Introduction to Python](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/01_python_intro/Lab1_Python_intro.ipynb) 
+    - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/01_python_intro/Lab1_Python_intro_SOLVED.ipynb)
+2. [Data Preprocessing and Nearest Neighbors](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/02_knn/Lab2_KNN.ipynb)
+    - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/02_knn/Lab2_KNN_SOLVED.ipynb)
