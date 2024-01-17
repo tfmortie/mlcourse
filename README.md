@@ -10,7 +10,7 @@ The course was developed for the machine learning course at Mbarara University o
 
 The course uses Python 3 and several data analysis packages such as Pandas, NumPy, Matplotlib and Scikit-learn. 
 
-**To immediately get started with the course, simply click on the links below in order to initiate your session in Google Colab**. Google Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources. To get started with Google Colab, we recommend the following [tutorial](https://colab.research.google.com).
+**To immediately get started with the course, simply click on the course material links below in order to initiate your session in Google Colab**. Google Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources. To get started with Google Colab, we recommend the following [tutorial](https://colab.research.google.com).
 
 In case you want to install everything and try out the course material on your local computer, see the addendum in the practical [Introduction to Python](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/01_python_intro/Lab1_Python_intro.ipynb).
 
