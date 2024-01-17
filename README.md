@@ -20,3 +20,7 @@ In case you want to install everything and try out the course material on your l
     - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/01_python_intro/Lab1_Python_intro_SOLVED.ipynb)
 2. [Data Preprocessing and Nearest Neighbors](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/02_knn/Lab2_KNN.ipynb)
     - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/02_knn/Lab2_KNN_SOLVED.ipynb)
+3. [Linear Regression](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/03_linear_regression/Lab3_Linreg.ipynb)
+    - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/03_linear_regression/Lab3_Linreg_SOLVED.ipynb)
+3. [Linear Classification](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/04_linear_classification/Lab4_Classification.ipynb)
+    - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/04_linear_classification/Lab4_Classification_SOLVED.ipynb)
