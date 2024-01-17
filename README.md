@@ -2,13 +2,13 @@
 
 ## Introduction 
 
-This course is designed for researchers who have at least basic skills in programming in Python. The course is aimed at researchers who want to improve their general skills in data manipulation, analysis and machine learning in Python.
+This course is designed for researchers who have at least basic skills in programming in Python. The course is aimed at researchers who want to improve their general skills in data manipulation, data analysis and machine learning in Python.
 
 The course was developed for the machine learning course at Mbarara University of Science and Technology and is based on the course Machine Learning for the Life Sciences, taught at the Faculty of Bioengineering at Ghent University. 
 
 ## Getting started
 
-The course uses Python 3 and some data analysis packages such as Pandas, NumPy and Matplotlib. 
+The course uses Python 3 and several data analysis packages such as Pandas, NumPy, Matplotlib and Scikit-learn. 
 
 **To immediately get started with the course, simply click on the links below in order to initiate your session on Google Colab**. Google Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources. To get started with Google Colab, we recommend the following [tutorial](https://colab.research.google.com).
 
