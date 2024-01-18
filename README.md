@@ -28,3 +28,5 @@ In case you want to install everything and try out the course material on your l
     - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/05_evaluation/Lab5_CrossValidation_SOLVED.ipynb)
 6. [Regularization Methods](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/06_regularization/Lab6_Reg.ipynb)
     - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/06_regularization/Lab6_Reg_SOLVED.ipynb)
+7. [Tree-based Methods](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/07_trees/Lab7_RF.ipynb)
+    - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/07_trees/Lab7_RF_SOLVED.ipynb)
