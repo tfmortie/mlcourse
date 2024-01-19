@@ -1,4 +1,4 @@
-# Machine learning training course
+# Machine learning training course @ MUST
 
 ## Introduction 
 
