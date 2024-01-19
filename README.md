@@ -8,7 +8,7 @@ The course was developed for the machine learning course at Mbarara University o
 
 ## Getting started
 
-The course uses Python 3 and several data analysis packages such as Pandas, NumPy, Matplotlib and Scikit-learn. 
+The course uses Python 3 and several data analysis packages such as Pandas, NumPy, Matplotlib, Scikit-learn and PyTorch. 
 
 **To immediately get started with the course, simply click on the course material links below in order to initiate your session in Google Colab**. Google Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources. To get started with Google Colab, we recommend the following [tutorial](https://colab.research.google.com).
 
@@ -32,3 +32,5 @@ In case you want to install everything and try out the course material on your l
     - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/07_trees/Lab7_RF_SOLVED.ipynb)
 8. [Unsupervised Learning](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/08_unsupervised/Lab8_UnsupervisedLearning.ipynb)
     - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/08_unsupervised/Lab8_UnsupervisedLearning_SOLVED.ipynb)
+9. [Introduction to Neural Networks](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/09_intro_nns/Lab9_intro_nns.ipynb)
+    - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/09_intro_nns/Lab9_intro_nns_SOLVED.ipynb)
