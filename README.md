@@ -21,9 +21,9 @@ In case you want to install everything and try out the course material on your l
 2. [Data Preprocessing and Nearest Neighbors](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/02_knn/Lab2_KNN.ipynb)
     - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/02_knn/Lab2_KNN_SOLVED.ipynb)
 3. [Linear Regression](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/03_linear_regression/Lab3_Linreg.ipynb)
-    <!-- - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/03_linear_regression/Lab3_Linreg_SOLVED.ipynb)-->
+    - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/03_linear_regression/Lab3_Linreg_SOLVED.ipynb)
 4. [Linear Classification](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/04_linear_classification/Lab4_Classification.ipynb)
-    <!-- - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/04_linear_classification/Lab4_Classification_SOLVED.ipynb)-->
+    - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/04_linear_classification/Lab4_Classification_SOLVED.ipynb)
 5. [Resampling Methods for Model Evaluation](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/05_evaluation/Lab5_CrossValidation.ipynb)
     <!-- - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/05_evaluation/Lab5_CrossValidation_SOLVED.ipynb)-->
 6. [Regularization Methods](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/06_regularization/Lab6_Reg.ipynb)
