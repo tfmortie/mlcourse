@@ -31,8 +31,8 @@ In case you want to install everything and try out the course material on your l
 7. [Tree-based Methods](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/07_trees/Lab7_RF.ipynb)
     - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/07_trees/Lab7_RF_SOLVED.ipynb)
 8. [Unsupervised Learning](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/08_unsupervised/Lab8_UnsupervisedLearning.ipynb)
-    <!-- - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/08_unsupervised/Lab8_UnsupervisedLearning_SOLVED.ipynb)-->
+    - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/08_unsupervised/Lab8_UnsupervisedLearning_SOLVED.ipynb)
 9. [Introduction to Neural Networks](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/09_intro_nns/Lab9_intro_nns.ipynb)
     - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/09_intro_nns/Lab9_intro_nns_SOLVED.ipynb)
-10. [Convolutional Neural Networks](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/10_cnns/Lab10_cnns.ipynb)
-    <!-- - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/10_cnns/Lab10_cnns_SOLVED.ipynb)-->
+10. [Convolutional Neural Networks](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/10_cnns/Lab10_cnns.ipynb)    
+    - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlmust/blob/main/10_cnns/Lab10_cnns_SOLVED.ipynb)
