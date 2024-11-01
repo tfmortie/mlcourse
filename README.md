@@ -34,3 +34,7 @@ The course materials can also be downloaded and run locally - for more informati
     - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlcourse/blob/main/09_intro_nns/Lab9_intro_nns_SOLVED.ipynb)
 10. [Convolutional Neural Networks](https://colab.research.google.com/github/tfmortie/mlcourse/blob/main/10_cnns/Lab10_cnns.ipynb)    
     - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlcourse/blob/main/10_cnns/Lab10_cnns_SOLVED.ipynb)
+11. [Recurrent Neural Networks](https://colab.research.google.com/github/tfmortie/mlcourse/blob/main/11_rnns/Lab11_rnns.ipynb)    
+    - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlcourse/blob/main/11_rnns/Lab11_rnns_SOLVED.ipynb)
+12. [Generative Models](https://colab.research.google.com/github/tfmortie/mlcourse/blob/main/12_gen/Lab12_gen.ipynb)    
+    - [SOLUTIONS](https://colab.research.google.com/github/tfmortie/mlcourse/blob/main/12_gen/Lab12_gen_SOLVED.ipynb)
